@@ -47,9 +47,9 @@
 
 ###Làm việc với nhóm branch và merge
 - B1 : Tạo thư mục để lưu project
-- B2 : git clone <duongdan>
-- B3 : git checkout -b <tenbranch>
-- B4 : git checkout <tenbranch>
+- B2 : git clone "https://github.com/javier1234559/BoardGo.git"
+- B3 : git checkout -b <hung>
+- B4 : git checkout <hung>
 - B5 : Chỉnh sửa file bình thường
 
 ###Tạo commit
