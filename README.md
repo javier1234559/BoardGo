@@ -37,9 +37,9 @@
 - B3 : git checkout -b <tênbranch>
 - B4 : git branch
 - B5 : git push -u origin <tênbranch>
--- Lấy branch có sẵn do ng khác tạo trên git
-- B1 :git fetch origin   
-- B2: git checkout -b <tên branch> origin/<tên branch>
+- Lấy branch có sẵn do ng khác tạo trên git
+  - B1 :git fetch origin   
+    - B2: git checkout -b <tên branch> origin/<tên branch>
 
 ###Tạo git ignore
 - B1: tạo 1 .gitignore trong repo
