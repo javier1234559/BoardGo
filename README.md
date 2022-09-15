@@ -21,9 +21,9 @@
         + B3 : git commit 
         + git sẽ tự động merge
 + ***C1 :***
-+ git push <repoLink> master
++ git push <dường dẫn repo> master
 + ***C2 :***
-+ git remote add origin <repoLink>
++ git remote add origin <đường dẫn repo>
 + git push origin master
     - Sự khác nhau của git pull và git fetch
         + git full <cập nhật hết sự thay đổi trên repo>
@@ -32,13 +32,13 @@
 ##Clone
 - Tạo branch ở local xong đẩy lên git
 - B1: cd thu muc
-- B2 : git clone <link repo>
-    ls <kiem tra thu muc>
-- B3 : git checkout -b <ten branch>
+- B2 : git clone <đường dẫn repo>
+    + ls <kiem tra thu muc>
+- B3 : git checkout -b <tênbranch>
 - B4 : git branch
-- B5 : git push -u origin <ten branch>
+- B5 : git push -u origin <tênbranch>
 -- Lấy branch có sẵn do ng khác tạo trên git
-- B1 :git fetch origin   "đây là cập nhật file"
+- B1 :git fetch origin   
 - B2: git checkout -b <tên branch> origin/<tên branch>
 
 ###Tạo git ignore
@@ -47,9 +47,9 @@
 
 ###Làm việc với nhóm branch và merge
 - B1 : Tạo thư mục để lưu project
-- B2 : git clone <link repo>
-- B3 : git checkout -b <ten branch>
-- B4 : git checkout <ten branch>
+- B2 : git clone <duongdan>
+- B3 : git checkout -b <tenbranch>
+- B4 : git checkout <tenbranch>
 - B5 : Chỉnh sửa file bình thường
 
 ###Tạo commit
@@ -57,8 +57,10 @@
 - B6: git add .
 - B7: git commit -m "noi dung can check point"
 - B8: git push
+
 ###Hằng ngày nếu muốn cập nhật folder theo repo thì nhập 
-git pull 
+
+- git pull 
 
 
 
