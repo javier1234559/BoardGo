@@ -20,9 +20,9 @@
         + B2 : git add .
         + B3 : git commit 
         + git sẽ tự động merge
-***C1 : ***
++ ***C1 :***
 + git push <repoLink> master
-***C2 :***
++ ***C2 :***
 + git remote add origin <repoLink>
 + git push origin master
     - Sự khác nhau của git pull và git fetch
@@ -30,7 +30,7 @@
         + git fetch <cập nhật xem thay đổi nhưng chỉ xem thôi>
 
 ##Clone
--- Tạo branch ở local xong đẩy lên git
+- Tạo branch ở local xong đẩy lên git
 - B1: cd thu muc
 - B2 : git clone <link repo>
     ls <kiem tra thu muc>
@@ -50,8 +50,10 @@
 - B2 : git clone <link repo>
 - B3 : git checkout -b <ten branch>
 - B4 : git checkout <ten branch>
-- B5: Chỉnh sửa file bình thường
+- B5 : Chỉnh sửa file bình thường
+
 ###Tạo commit
+
 - B6: git add .
 - B7: git commit -m "noi dung can check point"
 - B8: git push
