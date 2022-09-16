@@ -48,7 +48,7 @@
 ###Làm việc với nhóm branch và merge
 - B1 : Tạo thư mục để lưu project
 - B2 : git clone "https://github.com/javier1234559/BoardGo.git"
-- B3 : git checkout -b "tên branch : vd hung"
+- B3 : git checkout -b "tên branch : vd hung" "chỉ tạo nếu chưa có branch"
 - B4 : git checkout "tên branch : vd hung"
 - B5 : Chỉnh sửa file bình thường
 
