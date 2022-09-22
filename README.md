@@ -37,6 +37,7 @@
 - B3 : git checkout -b <tênbranch>
 - B4 : git branch
 - B5 : git push -u origin <tênbranch>
+- bonus git push -f origin <ten branch>  "de ghi de branch local len branch remote"
 - Lấy branch có sẵn do ng khác tạo trên git
   - B1 :git fetch origin   
     - B2: git checkout -b <tên branch> origin/<tên branch>
