@@ -62,6 +62,7 @@
 ###Hằng ngày nếu muốn cập nhật folder theo repo thì nhập 
 
 - git pull 
+- git pull origin main  "neu muon cap nhat va lam tiep theo main"
 
 
 
